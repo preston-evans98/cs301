@@ -1,0 +1,788 @@
+{
+  "version": 2,
+  "www": "erdplus.com",
+  "shapes": [
+    {
+      "type": "Entity",
+      "details": {
+        "name": "Patient",
+        "type": "regular",
+        "x": 464,
+        "y": 144,
+        "id": 1
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Name",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": true,
+        "isUnique": false,
+        "x": 625,
+        "y": 118,
+        "id": 3
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "First Name",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 625,
+        "y": 34,
+        "id": 5
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Middle Name",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 697,
+        "y": 70,
+        "id": 7
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Last Name",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 746,
+        "y": 113,
+        "id": 9
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Date of Birth",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 464,
+        "y": 60,
+        "id": 11
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Age",
+        "isDerived": true,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 381,
+        "y": 82,
+        "id": 15
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Primary (Home) Phone",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 620,
+        "y": 240,
+        "id": 19
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Address",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": true,
+        "isUnique": false,
+        "x": 775,
+        "y": 180,
+        "id": 23
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Street Address",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 849,
+        "y": 100,
+        "id": 25
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "City",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 974,
+        "y": 109,
+        "id": 27
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "State",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 1042,
+        "y": 186,
+        "id": 29
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Zip Code",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 984,
+        "y": 275,
+        "id": 31
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Work Phone",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": true,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 609,
+        "y": 310,
+        "id": 33
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "SSN",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": true,
+        "x": 536,
+        "y": 96,
+        "id": 35
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Sex",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 531,
+        "y": 281,
+        "id": 37
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Email",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 735,
+        "y": 248,
+        "id": 39
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Marital Status",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 663,
+        "y": 177,
+        "id": 41
+      }
+    },
+    {
+      "type": "Entity",
+      "details": {
+        "name": "Doctor",
+        "type": "regular",
+        "x": 219,
+        "y": 230,
+        "id": 42
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Name",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": true,
+        "isUnique": false,
+        "x": 219,
+        "y": 146,
+        "id": 43
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "First",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 103,
+        "y": 108,
+        "id": 45
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Middle Initial",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 217,
+        "y": 59,
+        "id": 47
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Last",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 335,
+        "y": 113,
+        "id": 49
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Phone Number",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": true,
+        "x": 338,
+        "y": 179,
+        "id": 51
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Email Address",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": true,
+        "x": 353,
+        "y": 251,
+        "id": 53
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Type",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 201,
+        "y": 329,
+        "id": 55
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Appointment Times",
+        "isDerived": false,
+        "isMultivalued": true,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 88,
+        "y": 297,
+        "id": 57
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "SSN",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": true,
+        "x": 75,
+        "y": 200,
+        "id": 59
+      }
+    },
+    {
+      "type": "Entity",
+      "details": {
+        "name": "Legal Guardian",
+        "type": "regular",
+        "x": 541,
+        "y": 214,
+        "id": 61
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Name",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": true,
+        "isUnique": false,
+        "x": 540,
+        "y": 130,
+        "id": 62
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Age",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 321,
+        "y": 323,
+        "id": 64
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Phone Number",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": true,
+        "x": 673,
+        "y": 183,
+        "id": 66
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Email Address",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": true,
+        "x": 582,
+        "y": 303,
+        "id": 68
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "First",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 453,
+        "y": 89,
+        "id": 70
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Middle Initial",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 555,
+        "y": 48,
+        "id": 72
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Last",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 640,
+        "y": 86,
+        "id": 74
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Age",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 672,
+        "y": 252,
+        "id": 76
+      }
+    }
+  ],
+  "connectors": [
+    {
+      "type": "Connector",
+      "details": {
+        "id": 4
+      },
+      "source": 3,
+      "destination": 1
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 6
+      },
+      "source": 5,
+      "destination": 3
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 8
+      },
+      "source": 7,
+      "destination": 3
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 10
+      },
+      "source": 9,
+      "destination": 3
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 12
+      },
+      "source": 11,
+      "destination": 1
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 16
+      },
+      "source": 15,
+      "destination": 1
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 20
+      },
+      "source": 19,
+      "destination": 1
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 24
+      },
+      "source": 23,
+      "destination": 1
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 26
+      },
+      "source": 25,
+      "destination": 23
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 28
+      },
+      "source": 27,
+      "destination": 23
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 30
+      },
+      "source": 29,
+      "destination": 23
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 32
+      },
+      "source": 31,
+      "destination": 23
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 34
+      },
+      "source": 33,
+      "destination": 1
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 36
+      },
+      "source": 35,
+      "destination": 1
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 38
+      },
+      "source": 37,
+      "destination": 1
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 40
+      },
+      "source": 39,
+      "destination": 1
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 42
+      },
+      "source": 41,
+      "destination": 1
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 45
+      },
+      "source": 43,
+      "destination": 42
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 47
+      },
+      "source": 45,
+      "destination": 43
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 49
+      },
+      "source": 47,
+      "destination": 43
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 51
+      },
+      "source": 49,
+      "destination": 43
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 53
+      },
+      "source": 51,
+      "destination": 42
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 55
+      },
+      "source": 53,
+      "destination": 42
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 57
+      },
+      "source": 55,
+      "destination": 42
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 59
+      },
+      "source": 57,
+      "destination": 42
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 61
+      },
+      "source": 59,
+      "destination": 42
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 64
+      },
+      "source": 62,
+      "destination": 61
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 66
+      },
+      "source": 64,
+      "destination": 42
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 68
+      },
+      "source": 66,
+      "destination": 61
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 70
+      },
+      "source": 68,
+      "destination": 61
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 72
+      },
+      "source": 70,
+      "destination": 62
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 74
+      },
+      "source": 72,
+      "destination": 62
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 76
+      },
+      "source": 74,
+      "destination": 62
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 78
+      },
+      "source": 76,
+      "destination": 61
+    }
+  ],
+  "width": 2000,
+  "height": 1000
+}
