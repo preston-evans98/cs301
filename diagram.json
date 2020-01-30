@@ -991,7 +991,7 @@
     {
       "type": "Relationship",
       "details": {
-        "name": "Guards",
+        "name": "Is Guarded By",
         "isIdentifying": false,
         "x": 884,
         "y": 532,
@@ -1281,7 +1281,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 524
+        "id": 596
       },
       "source": 3,
       "destination": 1
@@ -1289,7 +1289,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 525
+        "id": 597
       },
       "source": 5,
       "destination": 3
@@ -1297,7 +1297,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 526
+        "id": 598
       },
       "source": 7,
       "destination": 3
@@ -1305,7 +1305,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 527
+        "id": 599
       },
       "source": 9,
       "destination": 3
@@ -1313,7 +1313,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 528
+        "id": 600
       },
       "source": 11,
       "destination": 1
@@ -1321,7 +1321,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 529
+        "id": 601
       },
       "source": 15,
       "destination": 1
@@ -1329,7 +1329,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 530
+        "id": 602
       },
       "source": 19,
       "destination": 1
@@ -1337,7 +1337,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 531
+        "id": 603
       },
       "source": 23,
       "destination": 1
@@ -1345,7 +1345,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 532
+        "id": 604
       },
       "source": 25,
       "destination": 23
@@ -1353,7 +1353,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 533
+        "id": 605
       },
       "source": 27,
       "destination": 23
@@ -1361,7 +1361,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 534
+        "id": 606
       },
       "source": 29,
       "destination": 23
@@ -1369,7 +1369,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 535
+        "id": 607
       },
       "source": 31,
       "destination": 23
@@ -1377,7 +1377,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 536
+        "id": 608
       },
       "source": 33,
       "destination": 1
@@ -1385,7 +1385,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 537
+        "id": 609
       },
       "source": 35,
       "destination": 1
@@ -1393,7 +1393,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 538
+        "id": 610
       },
       "source": 37,
       "destination": 1
@@ -1401,7 +1401,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 539
+        "id": 611
       },
       "source": 39,
       "destination": 1
@@ -1409,7 +1409,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 540
+        "id": 612
       },
       "source": 41,
       "destination": 1
@@ -1417,7 +1417,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 541
+        "id": 613
       },
       "source": 43,
       "destination": 42
@@ -1425,7 +1425,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 542
+        "id": 614
       },
       "source": 45,
       "destination": 43
@@ -1433,7 +1433,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 543
+        "id": 615
       },
       "source": 47,
       "destination": 43
@@ -1441,7 +1441,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 544
+        "id": 616
       },
       "source": 49,
       "destination": 43
@@ -1449,7 +1449,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 545
+        "id": 617
       },
       "source": 51,
       "destination": 42
@@ -1457,7 +1457,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 546
+        "id": 618
       },
       "source": 53,
       "destination": 42
@@ -1465,7 +1465,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 547
+        "id": 619
       },
       "source": 55,
       "destination": 42
@@ -1473,7 +1473,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 548
+        "id": 620
       },
       "source": 57,
       "destination": 42
@@ -1481,7 +1481,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 549
+        "id": 621
       },
       "source": 59,
       "destination": 42
@@ -1489,7 +1489,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 550
+        "id": 622
       },
       "source": 62,
       "destination": 61
@@ -1497,7 +1497,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 551
+        "id": 623
       },
       "source": 64,
       "destination": 42
@@ -1505,7 +1505,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 552
+        "id": 624
       },
       "source": 66,
       "destination": 61
@@ -1513,7 +1513,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 553
+        "id": 625
       },
       "source": 68,
       "destination": 61
@@ -1521,7 +1521,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 554
+        "id": 626
       },
       "source": 70,
       "destination": 62
@@ -1529,7 +1529,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 555
+        "id": 627
       },
       "source": 72,
       "destination": 62
@@ -1537,7 +1537,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 556
+        "id": 628
       },
       "source": 74,
       "destination": 62
@@ -1545,7 +1545,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 557
+        "id": 629
       },
       "source": 76,
       "destination": 61
@@ -1553,7 +1553,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 558
+        "id": 630
       },
       "source": 78,
       "destination": 77
@@ -1561,7 +1561,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 559
+        "id": 631
       },
       "source": 84,
       "destination": 77
@@ -1569,7 +1569,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 560
+        "id": 632
       },
       "source": 86,
       "destination": 84
@@ -1577,7 +1577,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 561
+        "id": 633
       },
       "source": 88,
       "destination": 84
@@ -1585,7 +1585,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 562
+        "id": 634
       },
       "source": 90,
       "destination": 77
@@ -1593,7 +1593,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 563
+        "id": 635
       },
       "source": 98,
       "destination": 97
@@ -1601,7 +1601,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 564
+        "id": 636
       },
       "source": 162,
       "destination": 161
@@ -1609,7 +1609,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 565
+        "id": 637
       },
       "source": 164,
       "destination": 161
@@ -1617,7 +1617,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 566
+        "id": 638
       },
       "source": 166,
       "destination": 161
@@ -1625,7 +1625,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 567
+        "id": 639
       },
       "source": 168,
       "destination": 162
@@ -1633,7 +1633,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 568
+        "id": 640
       },
       "source": 170,
       "destination": 162
@@ -1641,7 +1641,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 569
+        "id": 641
       },
       "source": 172,
       "destination": 162
@@ -1667,7 +1667,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 570
+        "id": 642
       },
       "source": 178,
       "destination": 177
@@ -1675,7 +1675,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 571
+        "id": 643
       },
       "source": 180,
       "destination": 177
@@ -1683,7 +1683,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 572
+        "id": 644
       },
       "source": 182,
       "destination": 180
@@ -1691,7 +1691,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 573
+        "id": 645
       },
       "source": 184,
       "destination": 180
@@ -1699,7 +1699,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 574
+        "id": 646
       },
       "source": 186,
       "destination": 180
@@ -1707,7 +1707,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 575
+        "id": 647
       },
       "source": 188,
       "destination": 180
@@ -1715,7 +1715,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 576
+        "id": 648
       },
       "source": 190,
       "destination": 177
@@ -1723,7 +1723,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 577
+        "id": 649
       },
       "source": 192,
       "destination": 177
@@ -1731,7 +1731,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 578
+        "id": 650
       },
       "source": 194,
       "destination": 177
@@ -1757,7 +1757,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 579
+        "id": 651
       },
       "source": 274,
       "destination": 78
@@ -1765,7 +1765,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 580
+        "id": 652
       },
       "source": 278,
       "destination": 78
@@ -1773,7 +1773,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 581
+        "id": 653
       },
       "source": 280,
       "destination": 78
@@ -1799,7 +1799,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 582
+        "id": 654
       },
       "source": 285,
       "destination": 97
@@ -1843,7 +1843,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 583
+        "id": 655
       },
       "source": 297,
       "destination": 1
@@ -1869,7 +1869,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 584
+        "id": 656
       },
       "source": 308,
       "destination": 97
@@ -1877,7 +1877,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 585
+        "id": 657
       },
       "source": 310,
       "destination": 308
@@ -1885,7 +1885,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 586
+        "id": 658
       },
       "source": 312,
       "destination": 308
@@ -1911,7 +1911,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 587
+        "id": 659
       },
       "source": 379,
       "destination": 302
@@ -1919,7 +1919,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 588
+        "id": 660
       },
       "source": 381,
       "destination": 314
@@ -1927,7 +1927,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 589
+        "id": 661
       },
       "source": 449,
       "destination": 285
@@ -1935,7 +1935,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 590
+        "id": 662
       },
       "source": 451,
       "destination": 285
@@ -1943,7 +1943,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 591
+        "id": 663
       },
       "source": 453,
       "destination": 77
@@ -1951,7 +1951,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 592
+        "id": 664
       },
       "source": 523,
       "destination": 294
@@ -1959,7 +1959,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 594
+        "id": 665
       },
       "source": 593,
       "destination": 294
@@ -1967,7 +1967,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 596
+        "id": 666
       },
       "source": 595,
       "destination": 294
