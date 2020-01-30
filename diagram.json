@@ -7,8 +7,8 @@
       "details": {
         "name": "Patient",
         "type": "regular",
-        "x": 725,
-        "y": 320,
+        "x": 736,
+        "y": 339,
         "id": 1
       }
     },
@@ -21,8 +21,8 @@
         "isOptional": false,
         "isComposite": true,
         "isUnique": false,
-        "x": 886,
-        "y": 294,
+        "x": 897,
+        "y": 313,
         "id": 3
       }
     },
@@ -35,8 +35,8 @@
         "isOptional": false,
         "isComposite": false,
         "isUnique": false,
-        "x": 886,
-        "y": 210,
+        "x": 897,
+        "y": 229,
         "id": 5
       }
     },
@@ -49,8 +49,8 @@
         "isOptional": true,
         "isComposite": false,
         "isUnique": false,
-        "x": 958,
-        "y": 246,
+        "x": 969,
+        "y": 265,
         "id": 7
       }
     },
@@ -63,8 +63,8 @@
         "isOptional": false,
         "isComposite": false,
         "isUnique": false,
-        "x": 1007,
-        "y": 289,
+        "x": 1018,
+        "y": 308,
         "id": 9
       }
     },
@@ -77,8 +77,8 @@
         "isOptional": false,
         "isComposite": false,
         "isUnique": false,
-        "x": 778,
-        "y": 221,
+        "x": 789,
+        "y": 240,
         "id": 11
       }
     },
@@ -91,8 +91,8 @@
         "isOptional": false,
         "isComposite": false,
         "isUnique": false,
-        "x": 753,
-        "y": 167,
+        "x": 764,
+        "y": 186,
         "id": 15
       }
     },
@@ -105,8 +105,8 @@
         "isOptional": false,
         "isComposite": false,
         "isUnique": false,
-        "x": 573,
-        "y": 402,
+        "x": 584,
+        "y": 421,
         "id": 19
       }
     },
@@ -119,8 +119,8 @@
         "isOptional": false,
         "isComposite": true,
         "isUnique": false,
-        "x": 1040,
-        "y": 368,
+        "x": 1051,
+        "y": 387,
         "id": 23
       }
     },
@@ -133,8 +133,8 @@
         "isOptional": false,
         "isComposite": false,
         "isUnique": false,
-        "x": 1103,
-        "y": 292,
+        "x": 1114,
+        "y": 311,
         "id": 25
       }
     },
@@ -147,8 +147,8 @@
         "isOptional": false,
         "isComposite": false,
         "isUnique": false,
-        "x": 1135,
-        "y": 345,
+        "x": 1146,
+        "y": 364,
         "id": 27
       }
     },
@@ -161,8 +161,8 @@
         "isOptional": false,
         "isComposite": false,
         "isUnique": false,
-        "x": 1121,
-        "y": 404,
+        "x": 1132,
+        "y": 423,
         "id": 29
       }
     },
@@ -175,8 +175,8 @@
         "isOptional": false,
         "isComposite": false,
         "isUnique": false,
-        "x": 1082,
-        "y": 459,
+        "x": 1093,
+        "y": 478,
         "id": 31
       }
     },
@@ -189,8 +189,8 @@
         "isOptional": true,
         "isComposite": false,
         "isUnique": false,
-        "x": 655,
-        "y": 445,
+        "x": 666,
+        "y": 464,
         "id": 33
       }
     },
@@ -203,8 +203,8 @@
         "isOptional": false,
         "isComposite": false,
         "isUnique": true,
-        "x": 848,
-        "y": 260,
+        "x": 859,
+        "y": 279,
         "id": 35
       }
     },
@@ -217,8 +217,8 @@
         "isOptional": false,
         "isComposite": false,
         "isUnique": false,
-        "x": 787,
-        "y": 459,
+        "x": 798,
+        "y": 478,
         "id": 37
       }
     },
@@ -231,8 +231,8 @@
         "isOptional": false,
         "isComposite": false,
         "isUnique": false,
-        "x": 996,
-        "y": 424,
+        "x": 1007,
+        "y": 443,
         "id": 39
       }
     },
@@ -245,8 +245,8 @@
         "isOptional": false,
         "isComposite": false,
         "isUnique": false,
-        "x": 893,
-        "y": 418,
+        "x": 904,
+        "y": 437,
         "id": 41
       }
     },
@@ -541,8 +541,8 @@
         "isOptional": false,
         "isComposite": true,
         "isUnique": false,
-        "x": 316,
-        "y": 521,
+        "x": 322,
+        "y": 528,
         "id": 84
       }
     },
@@ -555,8 +555,8 @@
         "isOptional": true,
         "isComposite": false,
         "isUnique": false,
-        "x": 364,
-        "y": 467,
+        "x": 370,
+        "y": 474,
         "id": 86
       }
     },
@@ -569,8 +569,8 @@
         "isOptional": true,
         "isComposite": false,
         "isUnique": false,
-        "x": 422,
-        "y": 519,
+        "x": 428,
+        "y": 526,
         "id": 88
       }
     },
@@ -875,36 +875,6 @@
     {
       "type": "Relationship",
       "details": {
-        "name": "Is Insured By",
-        "isIdentifying": false,
-        "x": 599,
-        "y": 554,
-        "slots": [
-          {
-            "slotIndex": 0,
-            "minimum": "",
-            "maximum": "",
-            "participation": "optional",
-            "cardinality": "one",
-            "role": "",
-            "entityId": 1
-          },
-          {
-            "slotIndex": 1,
-            "minimum": "",
-            "maximum": "",
-            "participation": "mandatory",
-            "cardinality": "many",
-            "role": "",
-            "entityId": 177
-          }
-        ],
-        "id": 196
-      }
-    },
-    {
-      "type": "Relationship",
-      "details": {
         "name": "Takes Care Of",
         "isIdentifying": false,
         "x": 442,
@@ -1011,7 +981,7 @@
         "isDerived": false,
         "isMultivalued": true,
         "isOptional": false,
-        "isComposite": false,
+        "isComposite": true,
         "isUnique": false,
         "x": 1387,
         "y": 253,
@@ -1087,8 +1057,8 @@
         "isOptional": true,
         "isComposite": false,
         "isUnique": false,
-        "x": 669,
-        "y": 153,
+        "x": 680,
+        "y": 172,
         "id": 297
       }
     },
@@ -1097,8 +1067,8 @@
       "details": {
         "name": "Fill Out",
         "isIdentifying": false,
-        "x": 1028,
-        "y": 170,
+        "x": 1046,
+        "y": 204,
         "slots": [
           {
             "slotIndex": 0,
@@ -1203,8 +1173,8 @@
         "isOptional": false,
         "isComposite": false,
         "isUnique": false,
-        "x": 1028,
-        "y": 86,
+        "x": 1046,
+        "y": 120,
         "id": 379
       }
     },
@@ -1221,13 +1191,55 @@
         "y": 540,
         "id": 381
       }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Requested Information",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 1505,
+        "y": 245,
+        "id": 449
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Clarification Text",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 1485,
+        "y": 310,
+        "id": 451
+      }
+    },
+    {
+      "type": "Attribute",
+      "details": {
+        "name": "Relationship to Patient",
+        "isDerived": false,
+        "isMultivalued": false,
+        "isOptional": false,
+        "isComposite": false,
+        "isUnique": false,
+        "x": 175,
+        "y": 584,
+        "id": 453
+      }
     }
   ],
   "connectors": [
     {
       "type": "Connector",
       "details": {
-        "id": 315
+        "id": 382
       },
       "source": 3,
       "destination": 1
@@ -1235,7 +1247,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 316
+        "id": 383
       },
       "source": 5,
       "destination": 3
@@ -1243,7 +1255,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 317
+        "id": 384
       },
       "source": 7,
       "destination": 3
@@ -1251,7 +1263,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 318
+        "id": 385
       },
       "source": 9,
       "destination": 3
@@ -1259,7 +1271,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 319
+        "id": 386
       },
       "source": 11,
       "destination": 1
@@ -1267,7 +1279,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 320
+        "id": 387
       },
       "source": 15,
       "destination": 1
@@ -1275,7 +1287,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 321
+        "id": 388
       },
       "source": 19,
       "destination": 1
@@ -1283,7 +1295,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 322
+        "id": 389
       },
       "source": 23,
       "destination": 1
@@ -1291,7 +1303,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 323
+        "id": 390
       },
       "source": 25,
       "destination": 23
@@ -1299,7 +1311,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 324
+        "id": 391
       },
       "source": 27,
       "destination": 23
@@ -1307,7 +1319,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 325
+        "id": 392
       },
       "source": 29,
       "destination": 23
@@ -1315,7 +1327,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 326
+        "id": 393
       },
       "source": 31,
       "destination": 23
@@ -1323,7 +1335,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 327
+        "id": 394
       },
       "source": 33,
       "destination": 1
@@ -1331,7 +1343,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 328
+        "id": 395
       },
       "source": 35,
       "destination": 1
@@ -1339,7 +1351,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 329
+        "id": 396
       },
       "source": 37,
       "destination": 1
@@ -1347,7 +1359,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 330
+        "id": 397
       },
       "source": 39,
       "destination": 1
@@ -1355,7 +1367,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 331
+        "id": 398
       },
       "source": 41,
       "destination": 1
@@ -1363,7 +1375,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 332
+        "id": 399
       },
       "source": 43,
       "destination": 42
@@ -1371,7 +1383,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 333
+        "id": 400
       },
       "source": 45,
       "destination": 43
@@ -1379,7 +1391,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 334
+        "id": 401
       },
       "source": 47,
       "destination": 43
@@ -1387,7 +1399,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 335
+        "id": 402
       },
       "source": 49,
       "destination": 43
@@ -1395,7 +1407,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 336
+        "id": 403
       },
       "source": 51,
       "destination": 42
@@ -1403,7 +1415,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 337
+        "id": 404
       },
       "source": 53,
       "destination": 42
@@ -1411,7 +1423,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 338
+        "id": 405
       },
       "source": 55,
       "destination": 42
@@ -1419,7 +1431,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 339
+        "id": 406
       },
       "source": 57,
       "destination": 42
@@ -1427,7 +1439,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 340
+        "id": 407
       },
       "source": 59,
       "destination": 42
@@ -1435,7 +1447,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 341
+        "id": 408
       },
       "source": 62,
       "destination": 61
@@ -1443,7 +1455,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 342
+        "id": 409
       },
       "source": 64,
       "destination": 42
@@ -1451,7 +1463,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 343
+        "id": 410
       },
       "source": 66,
       "destination": 61
@@ -1459,7 +1471,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 344
+        "id": 411
       },
       "source": 68,
       "destination": 61
@@ -1467,7 +1479,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 345
+        "id": 412
       },
       "source": 70,
       "destination": 62
@@ -1475,7 +1487,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 346
+        "id": 413
       },
       "source": 72,
       "destination": 62
@@ -1483,7 +1495,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 347
+        "id": 414
       },
       "source": 74,
       "destination": 62
@@ -1491,7 +1503,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 348
+        "id": 415
       },
       "source": 76,
       "destination": 61
@@ -1499,7 +1511,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 349
+        "id": 416
       },
       "source": 78,
       "destination": 77
@@ -1507,7 +1519,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 350
+        "id": 417
       },
       "source": 84,
       "destination": 77
@@ -1515,7 +1527,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 351
+        "id": 418
       },
       "source": 86,
       "destination": 84
@@ -1523,7 +1535,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 352
+        "id": 419
       },
       "source": 88,
       "destination": 84
@@ -1531,7 +1543,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 353
+        "id": 420
       },
       "source": 90,
       "destination": 77
@@ -1539,7 +1551,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 354
+        "id": 421
       },
       "source": 98,
       "destination": 97
@@ -1547,7 +1559,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 356
+        "id": 422
       },
       "source": 162,
       "destination": 161
@@ -1555,7 +1567,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 357
+        "id": 423
       },
       "source": 164,
       "destination": 161
@@ -1563,7 +1575,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 358
+        "id": 424
       },
       "source": 166,
       "destination": 161
@@ -1571,7 +1583,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 359
+        "id": 425
       },
       "source": 168,
       "destination": 162
@@ -1579,7 +1591,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 360
+        "id": 426
       },
       "source": 170,
       "destination": 162
@@ -1587,7 +1599,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 361
+        "id": 427
       },
       "source": 172,
       "destination": 162
@@ -1613,7 +1625,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 362
+        "id": 428
       },
       "source": 178,
       "destination": 177
@@ -1621,7 +1633,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 363
+        "id": 429
       },
       "source": 180,
       "destination": 177
@@ -1629,7 +1641,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 364
+        "id": 430
       },
       "source": 182,
       "destination": 180
@@ -1637,7 +1649,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 365
+        "id": 431
       },
       "source": 184,
       "destination": 180
@@ -1645,7 +1657,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 366
+        "id": 432
       },
       "source": 186,
       "destination": 180
@@ -1653,7 +1665,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 367
+        "id": 433
       },
       "source": 188,
       "destination": 180
@@ -1661,7 +1673,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 368
+        "id": 434
       },
       "source": 190,
       "destination": 177
@@ -1669,7 +1681,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 369
+        "id": 435
       },
       "source": 192,
       "destination": 177
@@ -1677,28 +1689,10 @@
     {
       "type": "Connector",
       "details": {
-        "id": 370
+        "id": 436
       },
       "source": 194,
       "destination": 177
-    },
-    {
-      "type": "RelationshipConnector",
-      "details": {
-        "slotIndex": 0,
-        "id": 197
-      },
-      "source": 1,
-      "destination": 196
-    },
-    {
-      "type": "RelationshipConnector",
-      "details": {
-        "slotIndex": 1,
-        "id": 198
-      },
-      "source": 177,
-      "destination": 196
     },
     {
       "type": "RelationshipConnector",
@@ -1721,7 +1715,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 371
+        "id": 437
       },
       "source": 274,
       "destination": 78
@@ -1729,7 +1723,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 372
+        "id": 438
       },
       "source": 278,
       "destination": 78
@@ -1737,7 +1731,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 373
+        "id": 439
       },
       "source": 280,
       "destination": 78
@@ -1763,7 +1757,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 374
+        "id": 440
       },
       "source": 285,
       "destination": 97
@@ -1807,7 +1801,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 375
+        "id": 441
       },
       "source": 297,
       "destination": 1
@@ -1833,7 +1827,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 376
+        "id": 442
       },
       "source": 308,
       "destination": 97
@@ -1841,7 +1835,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 377
+        "id": 443
       },
       "source": 310,
       "destination": 308
@@ -1849,7 +1843,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 378
+        "id": 444
       },
       "source": 312,
       "destination": 308
@@ -1875,7 +1869,7 @@
     {
       "type": "Connector",
       "details": {
-        "id": 380
+        "id": 445
       },
       "source": 379,
       "destination": 302
@@ -1883,10 +1877,34 @@
     {
       "type": "Connector",
       "details": {
-        "id": 382
+        "id": 446
       },
       "source": 381,
       "destination": 314
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 450
+      },
+      "source": 449,
+      "destination": 285
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 452
+      },
+      "source": 451,
+      "destination": 285
+    },
+    {
+      "type": "Connector",
+      "details": {
+        "id": 454
+      },
+      "source": 453,
+      "destination": 77
     }
   ],
   "width": 2000,
